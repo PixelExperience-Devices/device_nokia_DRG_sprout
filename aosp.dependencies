@@ -2,13 +2,14 @@
   {
     "repository" : "RaghuVarma331/vendor_nokia_drg_sprout",
     "target_path": "vendor/nokia/DRG_sprout",
-    "branch": "pie",
+    "branch": "pie-caf",
     "remote": "gitlab"	
   },
   {
-    "repository" : "kernel_nokia_sdm660",
+    "repository" : "hmd-nokia-sdm660-development/kernel_nokia_sdm660",
     "target_path": "kernel/nokia/sdm660",
-    "branch": "pie-caf"
+    "branch": "pie-caf",
+    "remote": "github"	
   },
   {
     "repository": "LineageOS/android_packages_resources_devicesettings",
